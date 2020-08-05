@@ -4,7 +4,7 @@ namespace App\Entity;
 
 use App\Repository\TityRepository;
 use Doctrine\ORM\Mapping as ORM;
-//Test pull
+//C MOA K'AIT L"BAUSS
 /**
  * @ORM\Entity(repositoryClass=TityRepository::class)
  */
