@@ -26,6 +26,7 @@ class Tity
      * @ORM\Column(type="string", length=255)
      */
     private $color;
+    //blablabla
 
     public function getId(): ?int
     {
@@ -43,6 +44,7 @@ class Tity
 
         return $this;
     }
+    //blablablabla
 
     public function getColor(): ?string
     {
@@ -52,6 +54,7 @@ class Tity
     public function setColor(string $color): self
     {
         $this->color = $color;
+        //blablablabla
 
         return $this;
     }
